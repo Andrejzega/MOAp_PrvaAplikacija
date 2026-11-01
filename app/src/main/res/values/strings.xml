@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">First Application</string>
+    <string name="title_text">Mobile application!</string>
+    <string name="subtitle_text">Hello World!</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="subscribe_newsletters">Subscribe to newsletters</string>
+    <string name="button_login">Log In</string>
+    <string name="toast_message">My first Android Studio application!</string>
+    <string name="snackbar_message">Just another option for button.</string>
+</resources>
