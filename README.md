@@ -14,5 +14,6 @@ Aplikacija vsebuje naslednje elemente uporabniškega vmesnika:
 Vsa besedila v aplikaciji so shranjena v `strings.xml`.
 
 ## Posnetki aplikacije
-
-![Osnovni vmesnik](screenshot.png) ![Privzeti Snackbar](screenshot_snackbar_bottom.png) ![Prilagojeni Snackbar in Toast](screenshot_snackbar_centered.png)
+| Glavni zaslon | Snackbar | Snackbar 2 ter Toast |
+| --- | --- | --- |
+| ![Osnovni vmesnik](screenshot.png) | ![Privzeti Snackbar](screenshot_snackbar_bottom.png) | ![Prilagojeni Snackbar in Toast](screenshot_snackbar_centered.png) |
